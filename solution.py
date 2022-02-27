@@ -43,7 +43,7 @@ class Paddle:
 
 
 class Ball:
-    MAX_VEL = 5
+    MAX_VEL = 10
     COLOUR = WHITE
 
     def __init__(self, x, y, radius):
