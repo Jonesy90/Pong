@@ -1,4 +1,4 @@
-# Pong
+# Python Pong
 
 # About
 Coding along with a YouTuber on this to created the Pong game in Python (https://www.youtube.com/watch?v=vVGTZlnnX3U).
